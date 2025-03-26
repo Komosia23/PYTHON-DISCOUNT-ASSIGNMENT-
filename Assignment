@@ -17,4 +17,10 @@ netAmt = amount - discountAmount
 print("Discount = %d%% and Discount Amount = %.2f"%(discount,discountAmount))
 
 print("Net Amount = ",netAmt)
-    
+
+
+Enter Rate : 500
+Enter Quantity : 200
+Amount =  100000.0
+Discount = 20% and Discount Amount = 20000.00
+Net Amount =  80000.0
